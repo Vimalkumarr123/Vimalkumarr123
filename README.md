@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vimalkumarr123
+- 👋 Hey, I’m @Vimalkumarr123
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning LAHTP & Python Etc..
 - 📫 How to reach me vimalkumarr738@gmail.com
