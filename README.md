@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Kumar R</h1>
-<h3 align="center">A passionate about Cyber Security and Web development from India</h3>
+<h3 align="center"> Welcome to my GitHub profile! I'm passionate about Cybersecurity, Python, and Django development. I love solving problems, building secure systems, and contributing to the open-source community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalkumarr123&label=Profile%20views&color=0e75b6&style=flat" alt="vimalkumarr123" /> </p>
 
