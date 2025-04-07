@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Django, and Cybersecurity !!**
 
-- 📫 How to reach me **vimalkumarr738@gmail.com**
+- 📫 How to reach me **vimalkumarr738@gmail.com** , [LinkedIn](https://www.linkedin.com/in/vimal-kumar-r-aa8265184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVwIX%2FV%2BNT%2BuU7prMBMoeOw%3D%3D) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
