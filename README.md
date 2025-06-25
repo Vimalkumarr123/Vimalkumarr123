@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vimal Kumar R</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320" />
+</p>
 <h2 align="center">🔐 Cybersecurity Enthusiast | 🐍 Python Developer | 👾 Bug Bounty Hunter</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Analyst+in+Training;Python+Automation+Ninja;Open+Source+Contributor;Bug+Bounty+Hunter" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Cybersecurity+Analyst;Python+Automation+Ninja;Open+Source+Contributor;Bug+Bounty+Hunter" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -13,9 +17,9 @@
 
 ## 💼 About Me
 
-🎓 I'm currently pursuing my **M.Sc. in Cyber Forensics and Information Security** from the University of Madras (2023–2025).  
-💻 Passionate about **ethical hacking**, **Python scripting**, and **open-source security tools**.  
-🔐 I independently work as a **bug bounty hunter** and security researcher on platforms like HackerOne and Bugcrowd.  
+🎓 I'm currently pursuing my **M.Sc. in Cyber Forensics and Information Security** from the University of Madras .  
+💻 Passionate about **Ethical Hacking**, **Python scripting**, and **open-source security tools**.  
+🔐 I independently work as a **Bug Bounty Hunter** and security researcher on platforms like HackerOne and Bugcrowd.  
 🌍 Check out my portfolio:  
 🔗 [**Portfolio Website**](https://vimalkumarr123.github.io/portfolio/)
 
@@ -75,8 +79,12 @@
 
 <p align="center">
   <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/programming.gif" width="400" />
-  <br><br>
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320" />
+</p>
+<!-- Animated “Keep hacking …” tagline -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=435&height=45&color=00FF96&lines=Keep+hacking.;Keep+learning.;Stay+ethical.+💻"
+    alt="Animated tagline"
+  />
 </p>
 
-<h3 align="center"><b>Keep hacking. Keep learning. Stay ethical. 💻</b></h3>
