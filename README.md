@@ -72,8 +72,6 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkumarr123&layout=compact&theme=react" />
 </p>
----
-
 ### 👨‍💻 Hacker Mode: ON
 
 <p align="center">
@@ -81,8 +79,6 @@
   <br>
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320" />
 </p>
-
----
 
 <p align="center">
   <b>Keep hacking. Keep learning. Stay ethical. 💻</b>
