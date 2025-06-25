@@ -10,77 +10,68 @@
 </p>
 
 ---
-echo -e "\e[1;31m██    ██ \e[1;32m██╗\e[1;33m███╗   ███╗ \e[1;34m█████╗ \e[1;35m██╗     
-\e[1;31m██    ██ \e[1;32m██║\e[1;33m████╗ ████║\e[1;34m██╔══██╗\e[1;35m██║     
-\e[1;31m██    ██ \e[1;32m██║\e[1;33m██╔████╔██║\e[1;34m███████║\e[1;35m██║     
-\e[1;31m██    ██ \e[1;32m██║\e[1;33m██║╚██╔╝██║\e[1;34m██╔══██║\e[1;35m██║     
-\e[1;31m ██████  \e[1;32m██║\e[1;33m██║ ╚═╝ ██║\e[1;34m██║  ██║\e[1;35m███████╗
-\e[1;31m ╚═════╝ \e[1;32m╚═╝\e[1;33m╚═╝     ╚═╝\e[1;34m╚═╝  ╚═╝\e[1;35m╚══════╝
-
-\e[1;36m     Cybersecurity | \e[1;32mBug Bounty | \e[1;33mPython | \e[1;35mDjango\e[0m"
-
----
 
 ### 💼 About Me
 
-🎓 M.Sc. Cyber Forensics and Information Security – University of Madras (2023–2025)  
-💡 BCA – Dr. MGR Educational & Research Institute  
-🧠 Bug bounty hunter on HackerOne, Bugcrowd  
-🌐 Portfolio Website: [vimalkumarr123.github.io/portfolio](https://vimalkumarr123.github.io/portfolio/)  
-📄 [**View My Resume (PDF)**](https://github.com/Vimalkumarr123/vimal-kumarr-resume/blob/main/vimal%20kumarr.pdf)
+🎓 I'm currently pursuing my *M.Sc. in Cyber Forensics and Information Security* from the University of Madras (2023–2025).  
+💻 I'm passionate about *ethical hacking, **Python scripting, and **open-source security tools*.  
+🔐 I work independently as a *bug bounty hunter* and security researcher on platforms like HackerOne and Bugcrowd.  
+🌍 I recently launched my own portfolio:  
+🔗 [*Portfolio Website*](https://vimalkumarr123.github.io/portfolio/)
 
 ---
 
-### 🧰 Tools & Tech Stack
+### 🧠 Technical Skills
 
-- **Languages:** Python, Bash, HTML, CSS, SQL  
-- **Security Tools:** Nmap, Metasploit, Sqlmap, Burp Suite, Wireshark  
-- **SIEM:** Splunk  
-- **OS:** Kali Linux, Ubuntu, Windows  
-- **Virtualization & Cloud:** VMware, VirtualBox, AWS  
-- **Web Tech:** Django (beginner), Postman  
-- **Version Control:** Git & GitHub
+- *Languages:* Python (Scripting & Automation), Bash  
+- *Security Tools:* Metasploit, Nmap, Sqlmap, Burp Suite, Wireshark  
+- *SIEM & Logs:* Splunk  
+- *OS:* Kali Linux, Ubuntu, Windows  
+- *Web:* HTML, CSS  
+- *Cloud & Virtualization:* AWS (EC2, S3), VirtualBox, VMware  
+- *Networking:* TCP/IP, DNS, Firewalls  
+- *Version Control:* Git & GitHub  
 
 ---
 
-### 🛠 Projects
+### 🔭 Projects & Tools
 
-- 🔹 [Port Scanner (Python)](https://github.com/Vimalkumarr123/Port_scanner)
-- 🔹 [DDoS Attack Tool (HTTP Flood)](https://github.com/Vimalkumarr123/Ddos-Tool)
-- 🔹 Socket Tool Suite: TCP/UDP chat + multi-threading
-- 🔹 Kali Linux Attack Simulation (Phishing, hash cracking)
-- 🔹 Internship Tasks: Nmap Scans, Phishing Email Analysis
+- 🔹 [Port Scanner (Python)](https://github.com/Vimalkumarr123/Port_scanner)  
+- 🔹 [DDoS Tool (HTTP Flood Simulator)](https://github.com/Vimalkumarr123/Ddos-Tool)  
+- 🔹 *Socket Tool Suite (Python):* TCP/UDP with threading  
+- 🔹 *Kali Linux Attack Simulation:* Metasploit, phishing, hash cracking  
+- 🔹 *Cybersecurity Internship Tasks:* Network scans, phishing analysis, threat detection  
+- 🔹 View more on: [GitHub Portfolio](https://github.com/Vimalkumarr123)
 
 ---
 
 ### 📜 Certifications
 
-- ✅ CompTIA Security+ (in progress)
-- ✅ Ethical Hacking – Cappricio University
-- ✅ LAHTP Advanced – Self Made Ninja Academy
-- ✅ SQL Injection Attacks – EC-Council
-- ✅ Cybersecurity Awareness – MeitY, Govt. of India
+- 🛡️ *CompTIA Security+* (In Progress)  
+- ✅ *Ethical Hacking – Cappricio University*  
+- ✅ *Advanced LAHTP – Self Made Ninja Academy*  
+- ✅ *SQL Injection – EC-Council*  
+- ✅ *Cybersecurity Awareness – MeitY, Govt. of India*
 
 ---
 
-### 📫 Connect With Me
+### 🔗 Connect With Me
 
-- Email: [vimalkumarr738@gmail.com](mailto:vimalkumarr738@gmail.com)
-- [LinkedIn](https://linkedin.com/in/vimal-kumar-r-aa8265184)
-- [Instagram](https://instagram.com/vimxlkumxr.__)
+- 📫 Email: [vimalkumarr738@gmail.com](mailto:vimalkumarr738@gmail.com)  
+- 💼 LinkedIn: [Vimal Kumar R](https://linkedin.com/in/vimal-kumar-r-aa8265184)  
+- 📷 Instagram: [@vimxlkumxr.__](https://instagram.com/vimxlkumxr.__)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimalkumarr123&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vimalkumarr123&show_icons=true&theme=react" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalkumarr123&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vimalkumarr123&theme=react" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkumarr123&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkumarr123&layout=compact&theme=react" />
 </p>
-
 ---
 
 ### 👨‍💻 Hacker Mode: ON
