@@ -27,9 +27,8 @@
 
 ## 🧠 Technical Skills
 
-- **Languages:** Python (Scripting & Automation), Bash  
-- **Security Tools:** Metasploit, Nmap, Sqlmap, Burp Suite, Wireshark  
-- **SIEM & Logs:** Splunk  
+- **Languages:** Python (Scripting & Automation)  
+- **Security Tools:** Metasploit, Nmap, Sqlmap, Burp Suite, Wireshark   
 - **OS:** Kali Linux, Ubuntu, Windows  
 - **Web:** HTML, CSS  
 - **Cloud & Virtualization:** AWS (EC2, S3), VirtualBox, VMware  
@@ -55,8 +54,6 @@
 - ✅ *Ethical Hacking – Cappricio University*  
 - ✅ *Advanced LAHTP – Self Made Ninja Academy*  
 - ✅ *SQL Injection – EC-Council*  
-- ✅ *Cybersecurity Awareness – MeitY, Govt. of India*
-
 ---
 
 ## 🔗 Connect With Me
